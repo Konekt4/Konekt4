@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Konekt4
-- 👀 I’m interested in 
+- 👀 I’m interested in creating Youtube content
 - 🌱 I’m currently learning to make websites, Minecraft servers and python
 - 📫 How to reach me: https://linktr.ee/Konekt4
 - 😄 Pronouns: he/him
