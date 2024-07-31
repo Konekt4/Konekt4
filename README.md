@@ -2,5 +2,6 @@
 - 👀 I’m interested in creating Youtube content
 - 🌱 I’m currently learning to make websites, Minecraft servers and python
 - 📫 How to reach me: https://linktr.ee/Konekt4
+- ⭐ More about me: https://ruben-waldo.odoo.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: When I started the career, I didn't knew how to program lol
