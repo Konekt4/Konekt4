@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Konekt4
+- 👋 Hi, I’m @Konekt4, aka Rubén Waldo
 - 👀 I’m interested in creating Youtube content
 - 🌱 I’m currently learning to make websites, Minecraft servers and python
 - 📫 How to reach me: https://linktr.ee/Konekt4
