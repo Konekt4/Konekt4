@@ -11,7 +11,7 @@ I apply a **data-driven mindset** not only in code, but also in the management a
 
 | Category | Tools & Concepts |
 | :-- | :-- |
-| **Languages** | `Python`, `Java`, `SQL`, `C` |
+| **Languages** | `Python`, `Java`, `SQL`, `HTML` |
 | **Core Skills** | OOP, Data Structures, API Design |
 | **Current Focus** | Machine Learning (ML/NLP), Web Development, Data Analysis |
 | **Next Steps** | Cloud Computing (AWS / Azure), Self-Hosting & Automation |
