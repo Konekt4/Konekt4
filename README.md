@@ -28,5 +28,4 @@ I apply a **data-driven mindset** not only in code, but also in the management a
 
 ## 🌐 Connect With Me
 
-- 💼 [LinkedIn – Rubén Antonio Waldo Benítez](https://www.linkedin.com/in/rubén-antonio-waldo-benítez-774826288)  
 - 🔗 [All my links – Konekt4.github.io](https://konekt4.github.io/Landing_Konekt4/index.html)
