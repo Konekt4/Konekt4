@@ -3,8 +3,6 @@
 ## 🧠 About Me
 
 I’m a **Computer Engineering student (UDG)** passionate about **Software Development**, **Data Analysis**, and **Machine Learning**.  
-I apply a **data-driven mindset** not only in code, but also in the management and growth of my digital community of over **15,000 followers**, through analytical and creative strategy.
-
 ---
 
 ## 🧰 Tech Stack & Focus
