@@ -2,7 +2,8 @@
 
 ## 🧠 About Me
 
-I’m a **Computer Engineering student (UDG)** passionate about **Software Development**, **Data Analysis**, and **Machine Learning**.  
+I’m a **Computer Engineering student (UDG)** passionate about **Software Development**, **Data Analysis**, and **Machine Learning**. 
+
 ---
 
 ## 🧰 Tech Stack & Focus
