@@ -17,14 +17,6 @@ I’m a **Computer Engineering student (UDG)** passionate about **Software Devel
 
 ---
 
-## 📊 GitHub Insights
-
-![Konekt4's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Konekt4&show_icons=true&theme=vue)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Konekt4&layout=compact&theme=vue)
-
----
-
 ## 🌐 Connect With Me
 
-- 🔗 [All my links – Konekt4.github.io](https://konekt4.github.io/Landing_Konekt4/index.html)
+- 🔗 [All my links – Konekt4.github.io](Konekt4.github.io/Soy-Konekt4)
