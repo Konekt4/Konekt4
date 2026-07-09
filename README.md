@@ -19,4 +19,4 @@ I’m a **Computer Engineering student (UDG)** passionate about **Software Devel
 
 ## 🌐 Connect With Me
 
-- 🔗 [All my links – Konekt4.github.io](Konekt4.github.io/Soy-Konekt4)
+- 🔗 [All my links](https://konekt4.github.io/Soy-Konekt4/)
