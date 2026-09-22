@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rubén Waldo (@Konekt4)
+# 👋 Hi, I'm Waldo (@Konekt4)
 
 ## 🧠 About Me
 
